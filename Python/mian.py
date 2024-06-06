@@ -8,3 +8,8 @@ print(val1*val2)
 mystring ="Hello Wrold"
 print(mystring[0::+2]) 
 print(mystring[1])
+
+
+
+
+
