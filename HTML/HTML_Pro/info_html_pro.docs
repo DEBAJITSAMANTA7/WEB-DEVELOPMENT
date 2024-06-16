@@ -1,0 +1,3 @@
+in input it self closing tag
+<input type =" data Type" placeholder="in the box what we will write " id=" CSS " name="is user for name of data that send to server">
+rathr than data="" se use placeholder=" "✔️✅❎
