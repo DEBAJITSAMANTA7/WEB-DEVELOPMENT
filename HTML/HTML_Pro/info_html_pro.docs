@@ -1,3 +1,29 @@
 in input it self closing tag
-<input type =" data Type" placeholder="in the box what we will write " id=" CSS " name="is user for name of data that send to server">
+<input type =" data Type" placeholder="in the box what we will write " id=" CSS " name="is user for name of data that send to server like user_name etc.">
 rathr than data="" se use placeholder=" "✔️✅❎
+
+
+form 2:
+%40 means @ symbol
+
+action and method in form after submit 
+when we use action in <form action=" link" AFTER SUBIT IT WILL REDIRECT TO THE LINK>
+when we definr name ="" in <input> --. user-Name=DEBAJIT this will show link
+https://www.naukri.com/mnjuser/profile?user-Name=DEBAJIT
+
+use for in level using id --here id is unique key for inheritance function
+<form action="">
+
+<label for="data_me"> Password Generator</label>
+
+
+<input type="password" id=" data_me" placeholder="Level Password1">
+<input type="email" id=" data_me" placeholder="mail">
+
+</form>
+
+* level use for side by side view using a specific paragraph
+======
+*required key token 
+in input just use required for this i]that section is mandetory for the 
+data input
