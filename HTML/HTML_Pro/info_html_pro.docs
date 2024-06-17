@@ -46,4 +46,4 @@ for this single option we use name ="same_key" for all input
 
 
 
----
+---select and option in form always igve frontend as String and value for backend alwsys numeric 
