@@ -27,3 +27,23 @@ use for in level using id --here id is unique key for inheritance function
 *required key token 
 in input just use required for this i]that section is mandetory for the 
 data input
+
+
+
+----Form3-----
+importance of name="" if we want like any of two or more option then
+like are you from india - either yes or no 
+for this single option we use name ="same_key" for all input
+
+    <h2>The Hotel Form</h2>
+    <h4> Are You from </h4>
+    <level for "in_india"> In India  </level>
+
+    <input type="radio" placeholder="In India " id=" in_india" name="india_or_not">
+    <level for "not_in_india"> Not In India  </level>
+    <input type="radio" placeholder=" Not In India " id=" not_in_india" name="india_or_not">
+    
+
+
+
+---
